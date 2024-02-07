@@ -107,6 +107,7 @@
 - 위의 문제 때문에 개인 로컬에 EMR과 비슷한 환경을 셋팅해서 사용했지만 Spark query 변환시 scala를 사용하지 못해 추가 query는 pyspark로만 query 변환을 진행함
 
 # ETL 파이프라인 자동화 시연
-[<img width="1154" alt="Screenshot 2024-02-07 at 4 25 10 PM" src="https://github.com/je0nh/yd-medi-finalpj/assets/145730125/f22229f0-1ec5-4530-a7a3-0ce7efaeccf5">](https://www.youtube.com/watch?v=fr_N-lJF0VI)
+[<p align="center"><img width="620" alt="Screenshot 2024-02-07 at 4 25 10 PM" src="https://github.com/je0nh/yd-medi-finalpj/assets/145730125/f22229f0-1ec5-4530-a7a3-0ce7efaeccf5"></p>](https://www.youtube.com/watch?v=fr_N-lJF0VI)
 
-
+# 발표자료
+[<p align="center"><img width="402" alt="Screenshot 2024-02-07 at 4 29 27 PM" src="https://github.com/je0nh/yd-medi-finalpj/assets/145730125/80f8b21f-0fee-4205-bea0-46fe1769e3f8"></p>]([스타트업연계프로젝트_최종발표회_메디스트림_3팀v1.5.pdf](https://github.com/je0nh/yd-medi-finalpj/files/14190430/_._._3.v1.5.pdf))
