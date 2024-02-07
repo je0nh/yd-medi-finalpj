@@ -102,5 +102,11 @@
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 
+# 프로젝트 한계
+- EMR Cluser 한대로 20명이 넘는 인원이 사용하다보니 EMR이 과부하가 걸려 여러명이 사용할수 없는 문제가 발생함
+- 위의 문제 때문에 개인 로컬에 EMR과 비슷한 환경을 셋팅해서 사용했지만 Spark query 변환시 scala를 사용하지 못해 추가 query는 pyspark로만 query 변환을 진행함
+
+# ETL 파이프라인 자동화 시연
+[<img width="1154" alt="Screenshot 2024-02-07 at 4 25 10 PM" src="https://github.com/je0nh/yd-medi-finalpj/assets/145730125/f22229f0-1ec5-4530-a7a3-0ce7efaeccf5">](https://www.youtube.com/watch?v=fr_N-lJF0VI)
 
 
