@@ -7,11 +7,11 @@
 - 프로젝트 기간: 2023.11.08 ~ 2023.12.15
 - 프로젝트 인원: 5명 (정의찬, 정태훈, 박준영, 양재하, 이정훈)
 
-|이름|역할|
-|---|---|
-|이정훈|팀장, Spark query 변환|
-|정태훈, 양재하|Airflow 구축, Scala 변환|
-|정의찬, 박준영|Segment data 분석, EDA, Spark query 변환|
+  |이름|역할|
+  |---|---|
+  |이정훈|팀장, Spark query 변환|
+  |정태훈, 양재하|Airflow 구축, Scala 변환|
+  |정의찬, 박준영|Segment data 분석, EDA, Spark query 변환|
 
 # 프로젝트 목표
 - 기존 아키텍쳐
@@ -74,5 +74,33 @@
 <p align="center">
   <img width="620" alt="Screenshot 2024-02-07 at 3 37 32 PM" src="https://github.com/je0nh/yd-medi-finalpj/assets/145730125/22641c11-8eb7-491e-a575-a3d1151d7969">
 </p>
+
+
+## 사용 기술 스택
+**Environment** <br>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+**Language** <br>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
+
+**Config** <br>
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white">
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+**Framework** <br>
+<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+
+**Communication** <br>
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
+
 
 
